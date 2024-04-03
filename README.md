@@ -13,3 +13,5 @@ In particular, we will fine-tune the BERT model on a [Fake News](https://www.kag
 3) Training the entire model.
 
 We find that the accuracies that we get from these models are in increasing order as stated above, and this was also expected. Although, fine-tuning the entire model took a longer time than partial training.
+
+I am a big support of open-source learning. Hence, here is the [link](https://drive.google.com/drive/folders/1YrzUd9z-PqhMbJfYgof-ryS8cEAIsY6o?usp=sharing) to my fully trained BERT model's configuration and weights.
